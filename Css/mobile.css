@@ -12,3 +12,7 @@
 #navbar ul {
     padding: 0.5rem;
 }
+
+#degrees .degree-text .high-school .info {
+    padding: 0;
+}
