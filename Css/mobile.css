@@ -16,3 +16,11 @@
 #degrees .degree-text .high-school .info {
     padding: 0;
 }
+
+#home img {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 1rem;
+    border-radius: 100%;
+
+}
