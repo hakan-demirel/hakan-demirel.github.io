@@ -1,1 +1,0 @@
-# hakan-demirel.github.io
